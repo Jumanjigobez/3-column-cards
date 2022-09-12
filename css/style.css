@@ -112,7 +112,7 @@ p{
 	background-color: transparent;
 }
 
-@media (max-width: 375px){
+@media (max-width: 600px){
 	body{
 		display: block;
 		padding: 1.5rem;
